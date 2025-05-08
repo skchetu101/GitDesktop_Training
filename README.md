@@ -1,0 +1,1 @@
+    This is readme file to set the contents for Github Desktop Training
